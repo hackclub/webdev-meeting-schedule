@@ -1,13 +1,45 @@
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Regular.woff') format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Italic.woff') format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Phantom Sans';
+  src: url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Bold.woff') format('woff'),
+    url('https://assets.hackclub.com/fonts/Phantom_Sans_0.7/Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --red: #ec3750;
+  --orange: #ff8c37;
+  --yellow: #f1c40f;
+  --green: #33d6a6;
+  --cyan: #5bc0de;
+  --blue: #338eda;
+  --purple: #a633d6;
+  --muted: #8492a6;
+  --font-main: 'Phantom Sans', system-ui, sans-serif;
+  --background: #fff;
+  --foreground: #222;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
+html.dark {
     --background: #0a0a0a;
     --foreground: #ededed;
-  }
+  --muted: #8492a6;
 }
 
 html,
@@ -17,11 +49,9 @@ body {
 }
 
 body {
-  color: var(--foreground);
+  font-family: var(--font-main);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  color: var(--foreground);
 }
 
 * {
@@ -39,4 +69,21 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  margin-left: 1em;
+  padding-left: 0.6em;
+  margin-bottom: 1em;
+}
+.markdown-content li {
+  margin-bottom: 0.4em;
+}
+.markdown-content ul ul,
+.markdown-content ol ul,
+.markdown-content ul ol,
+.markdown-content ol ol {
+  margin-left: 1.5em;
+  margin-bottom: 0;
 }
