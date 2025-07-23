@@ -38,7 +38,7 @@ function parseSchedule(markdown: string): Day[] {
   let currentDay: Day | null = null;
   let currentDuration: string | null = null;
   let buffer: string[] = [];
-  for (let line of lines) {
+  for (const line of lines) {
     if (line.startsWith("## ")) {
       if (currentDay) {
         if (currentDuration && buffer.length) {
