@@ -69,19 +69,25 @@
   - Grab snacks  
 - Show off websites *(10 min)*
 - Explain next project (Swirl/Toppings) *(5 min)*
+[Button: Swirl](https://swirl.hackclub.com)
+[Button: Toppings](https://toppings.hackclub.com)
+
 
 ### 45m
 - Boba Party! *(20 min)*
   - Get the Boba/snacks  
 - Share websites as a group *(10-15 min)*
 - Explain next project (Swirl/Toppings) *(10 min)*
+[Button: Swirl](https://swirl.hackclub.com)
+[Button: Toppings](https://toppings.hackclub.com)
 
 ### 60m
 - Boba Party! (or other snacks) *(10–15 min)*
     - Get the Boba  
 - Show off websites as a group *(15–20 min)*
 - Explain and begin the next project -> Swirl/Toppings *(25 min)*
-
+[Button: Swirl](https://swirl.hackclub.com)
+[Button: Toppings](https://toppings.hackclub.com)
 
 
 ## Day 4
@@ -126,15 +132,20 @@
   - Grab Ice Cream/snacks  
 - Show off websites *(10 min)*
 - Explain next project (Waffles) *(5 min)*
+[Button: Waffles](https://swirl.hackclub.com)
 
 ### 45m
 - Ice Cream Party! *(20 min)*
   - Get the Ice Cream/snacks  
 - Share websites as a group *(10-15 min)*
 - Explain next project (Waffles) *(10 min)*
+[Button: Waffles](https://swirl.hackclub.com)
+
 
 ### 60m
 - Ice Cream Party! (or other snacks) *(10–15 min)*
     - Get the Ice Cream  
 - Show off websites as a group *(15–20 min)*
 - Explain and begin the next project -> Waffles *(25 min)*
+[Button: Waffles](https://swirl.hackclub.com)
+
