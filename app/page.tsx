@@ -262,7 +262,7 @@ export default function Home() {
         })}
       </div>
       <div style={{ color: "var(--muted)", marginTop: 40, fontSize: 15, textAlign: "center" }}>
-        Made with ❤️ by <a href="https://hackclub.com" style={{ color: "var(--muted)" }}>Hack Club</a> and <a href="https://github.com/whatbeato" style={{ color: "var(--muted)" }}>Afonso Beato</a>.
+        Made with ❤️ by <a href="https://hackclub.com" style={{ color: "var(--muted)" }}>Hack Club</a> and <a href="https://fonz.pt" style={{ color: "var(--muted)" }}>fonz!</a>.
       </div>
       <div style={{ color: "var(--muted)", marginTop: 10, fontSize: 15, textAlign: "center" }}>
         Any questions? Message #leaders in the Hack Club Slack.
